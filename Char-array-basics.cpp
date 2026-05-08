@@ -1,4 +1,4 @@
-```cpp id="jlwm2c"
+
 // ======================================
 // Topic: Character Array Basics
 // Concept: Input/Output in Char Arrays
@@ -34,4 +34,4 @@ Swayam
 To take full string with spaces,
 use getline().
 */
-```
+
